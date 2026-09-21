@@ -15,7 +15,7 @@ export default function Header() {
           {/* Left Menu */}
           <div className="hidden space-x-8 font-bold lg:flex">
             <a
-              href="#"
+              href="#features"
               className="text-grayishViolet hover:text-veryDarkViolet"
             >
               Features
