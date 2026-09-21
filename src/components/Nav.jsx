@@ -70,7 +70,7 @@ export default function Header() {
         }`}
       >
         <div className="flex w-full flex-col items-center justify-center space-y-6 rounded-sm font-bold text-white">
-          <a href="features" className="w-full text-center">
+          <a href="#features" className="w-full text-center">
             Features
           </a>
 
