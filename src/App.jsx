@@ -2,6 +2,7 @@ import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import Shorten from "./components/Shorten";
 import Stats from "./components/Stats";
+import Features from "./components/Features";
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <Nav />
       <Hero />
       <Shorten />
-      <Stats/>
+      <Stats />
+      <Features />
     </>
   );
 }
