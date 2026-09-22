@@ -16,4 +16,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/shortly.png)
+![Alt text](src/assets/images/shortly.png)
